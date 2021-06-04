@@ -8,3 +8,5 @@ Please note, I WILL NOT allow code for the purposes of cheating on assessments o
 This is intended to be a general purpose code book, for those times when u know there was a algorithm but can’t remember it.
 I will push a PDF through for each successfull Merge that is completed, to make it easier to read.
 Please leave me with your discord handle in your Pull request so I can contact you if i have a issue.
+
+Major thank you to Stephen Stratigos for adding massively to the project! https://github.com/Stephen-Stratigos.
